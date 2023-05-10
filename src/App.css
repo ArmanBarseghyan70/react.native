@@ -1,0 +1,15 @@
+#div_registration{
+  background-color: lightgray;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius:10px ;
+  width: 25%;
+ 
+}
+
+div>h1{
+  text-align: center;
+}
+#logout{
+  display: none;
+}
